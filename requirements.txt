@@ -1,0 +1,7 @@
+langchain
+langchain-anthropic
+langchain-community
+langchain-core
+langgraph
+crawl4ai
+ollama

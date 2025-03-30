@@ -179,6 +179,3 @@ def main():
         NotUsingDataset(user_query)
 
 main()
-
-
-# C:\Users\Atharva\Desktop\PROJECTS\AI_AGENTS\AI_Intern\ai_intern.py
